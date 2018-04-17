@@ -1,2 +1,6 @@
 # TFT-ML-Week-1
-TFT机器学习小组第一周
+
+## Course Material  
+Naive Bayes  
+* [Simple Demo](https://github.com/TFTxiaozu/TFT-ML-Week-1/tree/master/naive_bayes_demo)
+* Reading Material
