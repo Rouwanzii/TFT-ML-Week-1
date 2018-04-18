@@ -14,5 +14,5 @@ Naive Bayes
 * Get started with Python
 
 ## Assignment 2
-[Materials](https://github.com/TFTxiaozu/TFT-ML-Week-1/tree/master/Assignment-2)
-Naive Bayes - Learn in Pratice
+[Materials](https://github.com/TFTxiaozu/TFT-ML-Week-1/tree/master/Assignment-2)  
+* Naive Bayes - Learn in Pratice
